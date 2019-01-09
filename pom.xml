@@ -20,7 +20,6 @@
     </properties>
 
     <dependencies>
-        
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
@@ -31,7 +30,6 @@
             <artifactId>commons-lang3</artifactId>
             <version>3.7</version>
         </dependency>
-        
     </dependencies>
 
     <build>
